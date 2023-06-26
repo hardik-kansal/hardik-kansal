@@ -1,4 +1,4 @@
-# Hey , I'm Hardik!
+# Hey there , I'm Hardik! 
 
 ###### Member- BlocSoc IITR
 
@@ -16,14 +16,17 @@ I'm a sophomore at IIT Roorkee who is waking up in WeB3.
 </a>
 <a href="https://www.linkedin.com/in/hardik-kansal-23859a271">
 <picture>
- <img alt="https://www.linkedin.com/inhardik-kansal-23859a271" src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465">
+ <img alt="https://www.linkedin.com/inhardik-kansal-23859a271" src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" >
 </picture>
 </a>
 
 
-## Skills :]
+## Skills Working On
 
-- Solidity
-- Blockchain-Basics
-- MERN
+- #### Solidity
+- #### Blockchain
+- #### MERN
+
+<img src="https://github.com/GoofyCoder16/GoofyCoder16/blob/main/git.png" height="80px" width="80px">
+
 
