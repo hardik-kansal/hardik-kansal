@@ -3,7 +3,7 @@
 ###### Member- BlocSoc IITR
 
 ## About Me <picture>
- <img alt="Be there !" src="">
+ <img alt="Be there !" src="https://github.com/GoofyCoder16/GoofyCoder16/blob/main/download.jpeg">
 </picture>
 
 I'm a sophomore at IIT Roorkee who is waking up in WeB3.
