@@ -6,7 +6,7 @@
  <img alt="Be there !" src="https://github.com/GoofyCoder16/GoofyCoder16/blob/main/download.jpeg">
 </picture>
 
-I'm a sophomore at IIT Roorkee who is waking up in WeB3.
+I'm a sophomore at IIT Roorkee.
 
 
 <a href="https://twitter.com/Slappy_TD">
@@ -20,13 +20,5 @@ I'm a sophomore at IIT Roorkee who is waking up in WeB3.
 </picture>
 </a>
 
-
-## Skills Working On
-
-- #### Solidity
-- #### Blockchain
-- #### MERN
-
-<img src="https://github.com/GoofyCoder16/GoofyCoder16/blob/main/git.png" height="80px" width="80px">
 
 
