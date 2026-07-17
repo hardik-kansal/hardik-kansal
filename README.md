@@ -1,6 +1,6 @@
 ## Hardik Kansal
 
-Software Developer at SRIB | IIT Roorkee EE Graduate (JEE Adv: 4593)  
+Software Developer at Samsung Bangalore | IIT Roorkee EE Graduate (JEE Adv: 4593)  
 you can contact me at: [hkansal1610@gmail.com](mailto:hkansal1610@gmail.com) 
 
 
@@ -10,7 +10,9 @@ you can contact me at: [hkansal1610@gmail.com](mailto:hkansal1610@gmail.com)
 A single-file key-value store with slotted page storage, a B+ tree index, LRU page cache, dirty page tracking, and a rollback journal for crash recovery.
 
 ##### [Docai](https://docai.codes)
-An end-to-end RAG pipeline.
+An end-to-end RAG pipeline to teach myself llm ecosystem, and good practises.
+
+fastapi | docling | fastembed | qdrant | celery | redis | google interactive api | logfire | onnx runtime | presidio | tenacity | boto3 | aiobreaker | pyjwt | aws rds | ec2 | s3 (event bridge) | docker | Nextjs
 
 ---
 
