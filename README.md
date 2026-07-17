@@ -23,8 +23,8 @@ fastapi | docling | fastembed | qdrant | celery | redis | google interactive api
 
 #### Hackathons
 Competed in blockchain hackathons during college (quite basic but fun)
-* [Scaling Ethereum](https://link2.com)[(repo)](https://github.com/hardik-kansal/ScalingEthereum)
-* [EthOnline 23](https://ethglobal.com/showcase/anonysurf-5f1mt)[(repo)](https://github.com/hardik-kansal/AnonYSurf-EthOnline23)
+* [Scaling Ethereum](https://link2.com) | [repo](https://github.com/hardik-kansal/ScalingEthereum)
+* [EthOnline 23](https://ethglobal.com/showcase/anonysurf-5f1mt) | [repo](https://github.com/hardik-kansal/AnonYSurf-EthOnline23)
 
 #### Areas Explored 
 web dev | android app dev | blockchain | ai/ml | competitive programming | dsa 
