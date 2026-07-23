@@ -7,10 +7,10 @@ you can contact me at: [hkansal1610@gmail.com](mailto:hkansal1610@gmail.com)
 #### Projects
 
 ##### [C++ Database Engine](https://github.com/hardik-kansal/Database-Engine)
-A single-file key-value store with slotted page storage, a B+ tree index, LRU page cache, dirty page tracking, and a rollback journal for crash recovery.
+A lightweight key–value store in C++ using a single-file slotted storage format, a B+ tree index, LRU page cache, pager with dirty tracking, defragmentation, rollback journal system with automatic recovery, memory pool management, and a REPL for insert/delete/search operations with transaction support.
 
-##### [Docai](https://docai.codes)
-An end-to-end RAG pipeline to teach myself llm ecosystem, and good practises.
+##### [Docai](https://github.com/hardik-kansal/docai)
+An end-to-end RAG pipeline to teach myself llm ecosystem, and good practises. Available at https://docai.codes
 
 fastapi | docling | fastembed | qdrant | celery | redis | google interactive api | logfire | onnx runtime | presidio | tenacity | boto3 | aiobreaker | pyjwt | aws rds | ec2 | s3 (event bridge) | docker | Nextjs
 
@@ -28,5 +28,3 @@ Competed in blockchain hackathons during college (quite basic but fun)
 
 #### Areas Explored 
 web dev | android app dev | blockchain | ai/ml | competitive programming | dsa 
-
-- My bad habit: I always tend to dive deeper than the practical value justifies, often without any visible outcome. I guess that's what happens in research.
